@@ -11,6 +11,8 @@
 
 $(function() {
     $("h1").click(function() {
-        $("img").toggle(1000)
+        $("img").slideToggle(1000, function() {
+            alert("Callback is working")
+        })
     })
 })
