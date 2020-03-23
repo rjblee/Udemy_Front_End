@@ -1,0 +1,12 @@
+.center h1 {
+    background-color: rgba(50, 50, 50, 0.5);
+}
+
+
+
+.new {
+    text-align: center;
+    color: rgb(88, 33, 33);
+    margin-bottom: 30px;
+    font-size: 2em;
+}
