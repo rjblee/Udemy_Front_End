@@ -6,7 +6,8 @@
 
 .new {
     text-align: center;
-    color: rgb(88, 33, 33);
+    /* color: rgb(88, 33, 33); */
     margin-bottom: 30px;
     font-size: 2em;
+    color: #000000;
 }
